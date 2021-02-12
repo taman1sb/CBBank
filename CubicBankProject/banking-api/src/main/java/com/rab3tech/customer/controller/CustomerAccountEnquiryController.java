@@ -26,7 +26,7 @@ public class CustomerAccountEnquiryController {
 	private CustomerEnquiryService   customerEnquiryService;
 	
 	/*
-	 * @PostMapping     ("/customers/enquiry")       public CustomerSavingVO asdfdsfsf
+	 * @PostMapping     ("/customers/enquiry")       public CustomerSavingVO shganker tamang
 	 * saveEnquiry(@RequestBody CustomerSavingVO customerSavingVO) { //write code
 	 * for email validation; CustomerSavingVO response=null; boolean
 	 * status=customerEnquiryService.emailNotExist(customerSavingVO.getEmail());
